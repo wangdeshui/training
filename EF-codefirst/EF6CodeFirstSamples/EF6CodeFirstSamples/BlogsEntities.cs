@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
- 
+ http://www.entityframeworktutorial.net/code-first/entity-framework-code-first.aspx
  from Tools → Library Package Manager → Package Manager Console
  PM: Enable-Migrations
  PM: add-migration "first db schema"
