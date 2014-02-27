@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Data.Entity;
 using System.Data.Entity.Migrations;
+using System.Dynamic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -29,6 +30,16 @@ namespace EF6CodeFirstSamples
         }
 
         public DbSet<Department> Departments { get; set; }
+        public DbSet<Course> Courses { get; set; }
+
+        public DbSet<Person> Persons { get; set; }
+
+    }
+
+    public class Person
+    {
+        public int PersonID { get; set; }
+        public virtual ICollection<Department> Departments { get; set; } 
     }
 
 
@@ -41,6 +52,11 @@ namespace EF6CodeFirstSamples
         [MaxLength(50)]
         [Required]
         public string Name { get; set; }
+
+
+        public int PersonID { get; set; }
+
+        public virtual ICollection<Person> Persons { get; set; }
 
         // Navigationproperty
         public virtual ICollection<Course> Courses { get; set; }

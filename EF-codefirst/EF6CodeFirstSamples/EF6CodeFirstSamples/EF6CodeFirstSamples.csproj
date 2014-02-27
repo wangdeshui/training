@@ -59,6 +59,10 @@
     <Compile Include="Migrations\201402270553058_change name is required.Designer.cs">
       <DependentUpon>201402270553058_change name is required.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201402270622472_add-departments-to-persons.cs" />
+    <Compile Include="Migrations\201402270622472_add-departments-to-persons.Designer.cs">
+      <DependentUpon>201402270622472_add-departments-to-persons.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestDefaultCodeFirst.cs" />
@@ -73,6 +77,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201402270553058_change name is required.resx">
       <DependentUpon>201402270553058_change name is required.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201402270622472_add-departments-to-persons.resx">
+      <DependentUpon>201402270622472_add-departments-to-persons.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
