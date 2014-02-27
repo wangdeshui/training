@@ -25,7 +25,7 @@ namespace EF6CodeFirstSamples
     {
         public BlogsEntities()
         {
-            Database.SetInitializer(new BlogDBInitializer());
+            //Database.SetInitializer(new BlogDBInitializer());
         }
 
         public DbSet<Department> Departments { get; set; }
