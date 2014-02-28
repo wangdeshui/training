@@ -1,6 +1,6 @@
 * HTML5 start-up
 	
-	```
+	```html
 	<!DOCTYPE html>
 	<html lang="en">
 		<head>
