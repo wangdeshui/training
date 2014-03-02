@@ -1,6 +1,6 @@
 ## HTML5 start-up
 	
-	```html
+	``` HTML
 	<!DOCTYPE html>
 	<html lang="en">
 		<head>
@@ -283,23 +283,40 @@
 ## 	better HTML5 Form
 	Placeholder，new input type (email,number,date,autofocus),validation (required)
 	
-	```
+	``` css
 	
 		Validation Styling Hooks
 		
-		input:required {			background-color: lightyellow;		}
-			input:required:invalid {			background-color: lightyellow;		}
-			required and optional
-			valid and invalid
-			in-range and out-of-range
-		<label for="promoCode">Promotion Code</label>		<input id="promoCode" placeholder="QRB-001" title="Your promotion code is three 		uppercase letters, a dash, then three numbers" pattern="[A-Z]{3}-[0-9]{3}">
+		input:required {
+			background-color: lightyellow;
+		}
+	
+		input:required:invalid {
+			background-color: lightyellow;
+		}
+	
+		required and optional
+	
+		valid and invalid
+	
+		in-range and out-of-range
+
+		<label for="promoCode">Promotion Code</label>
+		<input id="promoCode" placeholder="QRB-001" title="Your promotion code is three 		uppercase letters, a dash, then three numbers" pattern="[A-Z]{3}-[0-9]{3}">
 	
 	```
 	
 ## 	support HTML5 in old browser
 
 	```
-	<head>		<title>...</title>		<script src="shared/js/modernizr.com/Modernizr-2.5.3.forms.js"></script>		<script src="shared/js/html5Forms.js" data-webforms2-support="all"		data-webforms2-force-js-validation="true">		</script>		...	<head>
+	<head>
+		<title>...</title>
+		<script src="shared/js/modernizr.com/Modernizr-2.5.3.forms.js"></script>
+		<script src="shared/js/html5Forms.js" data-webforms2-support="all"
+		data-webforms2-force-js-validation="true">
+		</script>
+		...
+	<head>
 	
 	```
 
