@@ -319,6 +319,9 @@
 	<head>
 	
 	```
+	
+##  check html5 support in browsers
+	* <http://html5readiness.com/>
 
  		
 			
