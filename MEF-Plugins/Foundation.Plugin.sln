@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{9BE46AAA-DFC3-426D-8718-A4A75481159C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanAlgorithm.PluginA", "APlanAlgorithm\PlanAlgorithm.PluginA.csproj", "{D239FF83-678A-4224-B998-3AD340B23BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanAlgorithm.PluginB", "BPlanAlgorithm\PlanAlgorithm.PluginB.csproj", "{BC10F169-BA81-408B-92ED-07184434D8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation.Plugin", "Foundation.Plugin\Foundation.Plugin.csproj", "{8425681C-07EC-43E1-9108-65221F80CE27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{BA902323-6582-48B4-95FE-7A5C9DDEB990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanAlgorithm.Contracts", "PlanAlgorithm.Contracts\PlanAlgorithm.Contracts.csproj", "{451D9863-C567-4DC5-AB6A-970BADB175CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{A9BE5CE2-8961-47C2-B603-2D19E0657A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D239FF83-678A-4224-B998-3AD340B23BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D239FF83-678A-4224-B998-3AD340B23BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D239FF83-678A-4224-B998-3AD340B23BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D239FF83-678A-4224-B998-3AD340B23BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC10F169-BA81-408B-92ED-07184434D8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC10F169-BA81-408B-92ED-07184434D8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC10F169-BA81-408B-92ED-07184434D8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC10F169-BA81-408B-92ED-07184434D8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8425681C-07EC-43E1-9108-65221F80CE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8425681C-07EC-43E1-9108-65221F80CE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8425681C-07EC-43E1-9108-65221F80CE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8425681C-07EC-43E1-9108-65221F80CE27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451D9863-C567-4DC5-AB6A-970BADB175CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451D9863-C567-4DC5-AB6A-970BADB175CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451D9863-C567-4DC5-AB6A-970BADB175CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451D9863-C567-4DC5-AB6A-970BADB175CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9BE5CE2-8961-47C2-B603-2D19E0657A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BE5CE2-8961-47C2-B603-2D19E0657A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BE5CE2-8961-47C2-B603-2D19E0657A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BE5CE2-8961-47C2-B603-2D19E0657A94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D239FF83-678A-4224-B998-3AD340B23BED} = {9BE46AAA-DFC3-426D-8718-A4A75481159C}
+		{BC10F169-BA81-408B-92ED-07184434D8EA} = {9BE46AAA-DFC3-426D-8718-A4A75481159C}
+		{451D9863-C567-4DC5-AB6A-970BADB175CE} = {BA902323-6582-48B4-95FE-7A5C9DDEB990}
+		{9BE46AAA-DFC3-426D-8718-A4A75481159C} = {BA902323-6582-48B4-95FE-7A5C9DDEB990}
+		{A9BE5CE2-8961-47C2-B603-2D19E0657A94} = {BA902323-6582-48B4-95FE-7A5C9DDEB990}
+	EndGlobalSection
+EndGlobal

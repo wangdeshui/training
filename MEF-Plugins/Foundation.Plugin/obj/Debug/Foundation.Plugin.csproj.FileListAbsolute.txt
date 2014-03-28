@@ -1,0 +1,9 @@
+E:\Work\MEFSamples\Foundation.Plugin\bin\Debug\Foundation.Plugin.dll
+E:\Work\MEFSamples\Foundation.Plugin\bin\Debug\Foundation.Plugin.pdb
+E:\Work\MEFSamples\Foundation.Plugin\obj\Debug\Foundation.Plugin.dll
+E:\Work\MEFSamples\Foundation.Plugin\obj\Debug\Foundation.Plugin.pdb
+D:\training\MEF-Plugins\Foundation.Plugin\bin\Debug\Foundation.Plugin.dll
+D:\training\MEF-Plugins\Foundation.Plugin\bin\Debug\Foundation.Plugin.pdb
+D:\training\MEF-Plugins\Foundation.Plugin\obj\Debug\Foundation.Plugin.csprojResolveAssemblyReference.cache
+D:\training\MEF-Plugins\Foundation.Plugin\obj\Debug\Foundation.Plugin.dll
+D:\training\MEF-Plugins\Foundation.Plugin\obj\Debug\Foundation.Plugin.pdb

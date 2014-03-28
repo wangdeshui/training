@@ -1,0 +1,14 @@
+E:\Work\MEFSamples\PlanAlgorithm.Contracts\bin\Debug\PlanAlgorithm.Contracts.dll
+E:\Work\MEFSamples\PlanAlgorithm.Contracts\bin\Debug\PlanAlgorithm.Contracts.pdb
+E:\Work\MEFSamples\PlanAlgorithm.Contracts\obj\Debug\PlanAlgorithm.Contracts.csprojResolveAssemblyReference.cache
+E:\Work\MEFSamples\PlanAlgorithm.Contracts\obj\Debug\PlanAlgorithm.Contracts.dll
+E:\Work\MEFSamples\PlanAlgorithm.Contracts\obj\Debug\PlanAlgorithm.Contracts.pdb
+E:\Work\MEFSamples\PlanAlgorithm.Contracts\bin\Debug\Foundation.Plugin.dll
+E:\Work\MEFSamples\PlanAlgorithm.Contracts\bin\Debug\Foundation.Plugin.pdb
+D:\training\MEF-Plugins\PlanAlgorithm.Contracts\bin\Debug\PlanAlgorithm.Contracts.dll
+D:\training\MEF-Plugins\PlanAlgorithm.Contracts\bin\Debug\PlanAlgorithm.Contracts.pdb
+D:\training\MEF-Plugins\PlanAlgorithm.Contracts\bin\Debug\Foundation.Plugin.dll
+D:\training\MEF-Plugins\PlanAlgorithm.Contracts\bin\Debug\Foundation.Plugin.pdb
+D:\training\MEF-Plugins\PlanAlgorithm.Contracts\obj\Debug\PlanAlgorithm.Contracts.csprojResolveAssemblyReference.cache
+D:\training\MEF-Plugins\PlanAlgorithm.Contracts\obj\Debug\PlanAlgorithm.Contracts.dll
+D:\training\MEF-Plugins\PlanAlgorithm.Contracts\obj\Debug\PlanAlgorithm.Contracts.pdb

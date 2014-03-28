@@ -1,0 +1,9 @@
+D:\training\MEFSamples\APlanAlgorithm\bin\Debug\APlanAlgorithm.dll
+D:\training\MEFSamples\APlanAlgorithm\bin\Debug\APlanAlgorithm.pdb
+D:\training\MEFSamples\APlanAlgorithm\bin\Debug\Plan.Interfaces.dll
+D:\training\MEFSamples\APlanAlgorithm\bin\Debug\Plan.Interfaces.pdb
+D:\training\MEFSamples\MEFHost\bin\Debug\Plugins\APlanAlgorithm.dll
+D:\training\MEFSamples\MEFHost\bin\Debug\Plugins\APlanAlgorithm.pdb
+D:\training\MEFSamples\APlanAlgorithm\obj\Debug\APlanAlgorithm.csprojResolveAssemblyReference.cache
+D:\training\MEFSamples\APlanAlgorithm\obj\Debug\APlanAlgorithm.dll
+D:\training\MEFSamples\APlanAlgorithm\obj\Debug\APlanAlgorithm.pdb

@@ -1,0 +1,7 @@
+E:\Work\MEFSamples\MEFHost\bin\Debug\Plugins\PlanAlgorithm.PluginB.dll
+E:\Work\MEFSamples\MEFHost\bin\Debug\Plugins\PlanAlgorithm.PluginB.pdb
+E:\Work\MEFSamples\BPlanAlgorithm\obj\Debug\PlanAlgorithm.PluginB.csprojResolveAssemblyReference.cache
+E:\Work\MEFSamples\BPlanAlgorithm\obj\Debug\PlanAlgorithm.PluginB.dll
+E:\Work\MEFSamples\BPlanAlgorithm\obj\Debug\PlanAlgorithm.PluginB.pdb
+E:\Work\MEFSamples\Sample\bin\Debug\Plugins\PlanAlgorithm.PluginB.dll
+E:\Work\MEFSamples\Sample\bin\Debug\Plugins\PlanAlgorithm.PluginB.pdb

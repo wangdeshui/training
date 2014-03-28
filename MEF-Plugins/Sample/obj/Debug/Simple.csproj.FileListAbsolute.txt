@@ -1,0 +1,12 @@
+E:\Work\MEFSamples\Simple\obj\Debug\Simple.csprojResolveAssemblyReference.cache
+E:\Work\MEFSamples\Simple\bin\Debug\Simple.exe
+E:\Work\MEFSamples\Simple\bin\Debug\Simple.pdb
+E:\Work\MEFSamples\Simple\bin\Debug\Foundation.Plugin.dll
+E:\Work\MEFSamples\Simple\bin\Debug\PlanAlgorithm.Contracts.dll
+E:\Work\MEFSamples\Simple\bin\Debug\Foundation.Plugin.pdb
+E:\Work\MEFSamples\Simple\bin\Debug\PlanAlgorithm.Contracts.pdb
+E:\Work\MEFSamples\Simple\obj\Debug\Simple.exe
+E:\Work\MEFSamples\Simple\obj\Debug\Simple.pdb
+E:\Work\MEFSamples\Simple\bin\Debug\Castle.Core.dll
+E:\Work\MEFSamples\Simple\bin\Debug\Castle.Windsor.dll
+E:\Work\MEFSamples\Simple\bin\Debug\Castle.Windsor.xml
