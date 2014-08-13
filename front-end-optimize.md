@@ -1,3 +1,12 @@
+# Agenda
+1. Rules of web performance
+2. Tools (Bower, Grunt, Yo)
+3. Demo of using Grunt in Mac or Visual studio
+
+
+
+
+
 # Web application performance
 ## Minimize HTTP Requests
 * Combined files
