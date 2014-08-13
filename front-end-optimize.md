@@ -3,6 +3,10 @@
 2. Tools (Bower, Grunt, Yo)
 3. Demo of using Grunt in Mac or Visual studio
 
+## Why I have to training this?
+
+
+![fuck-js](images/what-the-fuck-js.png)
 
 
 
