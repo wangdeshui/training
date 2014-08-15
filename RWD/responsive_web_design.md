@@ -32,24 +32,22 @@ how to display:
 
 ### Allow browsers scale
 
-	```HTML
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	
-	```
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+```
 ### Don't use fixed width, use % or auto
 
 ### User elative font-size em, don't use px
 ### fluid grid
 ### Media query
-	```html
-	<link rel="stylesheet" type="text/css"　media="screen and (min-width: 400px) and (max-device-width: 600px)"　　href="smallScreen.css" />
+```html
+<link rel="stylesheet" type="text/css"　media="screen and (min-width: 400px) and (max-device-width: 600px)"　　href="smallScreen.css" />
 　　　　
-	```
+```
 
-	```css
-	
-	  @media screen and (max-device-width: 400px) {
+```css
+
+  @media screen and (max-device-width: 400px) {
 　　　　.column {
 　　　　　　float: none;
 　　　　　　width:auto;
@@ -58,8 +56,8 @@ how to display:
 　　　　　　display:none;
 　　　　}
 　　 }
-	
-	```
+
+```
 
 
 ### 12 columns grid layout
